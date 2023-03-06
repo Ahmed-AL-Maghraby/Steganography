@@ -1,5 +1,12 @@
 # Steganography Notes And Tools
 
+| Table of contents |
+|     :---:      |
+| [Image Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#image-steganography)     | 
+| [Files Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#files-steganography)       |
+| [Audio Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#audio-steganography)       |
+
+
 ## Image Steganography
 Online Tools :
 + [Exiftool](https://exif.tools/)
