@@ -62,3 +62,18 @@ $ cd output
   - Linux && windows
 + Deep Sound	
   - Add secret file in Audio and if you want password
+
+
+
++ Pdf Analysis
+```
+peepdf
+```
+
++ detected potentially malicious visual basic code within a macro
+```
+$ vmonkey test.doc
+```
+
+
+
