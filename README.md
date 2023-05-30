@@ -2,9 +2,10 @@
 
 | Table of contents |
 |     :---:      |
-| [Image Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#image-steganography)     | 
-| [Files Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#files-steganography)       |
-| [Audio Steganography](https://github.com/ahmed-kamal-el-maghraby/Steganography/blob/main/README.md#audio-steganography)       |
+| [Image Steganography](https://github.com/ahmed-al-maghraby/Steganography/blob/main/README.md#image-steganography)     | 
+| [Files Steganography](https://github.com/ahmed-al-maghraby/Steganography/blob/main/README.md#files-steganography)       |
+| [Audio Steganography](https://github.com/ahmed-al-maghraby/Steganography/blob/main/README.md#audio-steganography)       |
+| [Steganography Online](https://github.com/ahmed-al-maghraby/Steganography/blob/main/README.md#Steganography-Online)       |
 
 
 ## Image Steganography
@@ -75,5 +76,6 @@ peepdf
 $ vmonkey test.doc
 ```
 
-
+## Steganography Online
+https://stylesuxx.github.io/steganography/
 
